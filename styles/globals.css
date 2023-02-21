@@ -1,3 +1,19 @@
 @tailwind base;
+
+@layer base {
+  * {
+    @apply p-0;
+    font: inherit;
+  }
+/* 
+  html {
+    color-scheme: light dark;
+  } */
+
+  body {
+    @apply text-[0.9375rem];
+  }
+}
+
 @tailwind components;
 @tailwind utilities;
