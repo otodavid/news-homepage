@@ -1,5 +1,5 @@
 # News Homepage - Frontend Mentor Challenge
-This is a solution to a challenge from Frontend Mentors. The solution can be found on my profile on [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-news-page-with-nextjs-and-tailwindcss-Yfbm3i0W8Z). The live site can be found here -  [News homepage](https://webnews-homepage.vercel.app/).
+This is a solution to a challenge from Frontend Mentors. The solution can be found on my [Frontend Mentor profile](https://www.frontendmentor.io/solutions/responsive-news-page-with-nextjs-and-tailwindcss-Yfbm3i0W8Z). The live site can be found here -  [News homepage](https://webnews-homepage.vercel.app/).
 
 ## Outline
 - [Overview](#overview)  
