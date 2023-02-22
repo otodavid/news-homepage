@@ -27,7 +27,9 @@ const Layout = ({ children, className }) => {
 
         <div>{children}</div>
       </div>
-      <Attribution />
+      <footer>
+        <Attribution />
+      </footer>
     </div>
   );
 };
