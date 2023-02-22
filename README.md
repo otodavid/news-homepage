@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# News Homepage - Frontend Mentor Challenge
+This is a solution to a challenge from Frontend Mentors. The solution can be found on my profile on [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-news-page-with-nextjs-and-tailwindcss-Yfbm3i0W8Z). The live site can be found here -  [News homepage](https://webnews-homepage.vercel.app/).
 
-## Getting Started
+## Outline
+- [Overview](#overview)  
+- [Tools](#tools)
+- [Deployment](#deployment)
 
-First, run the development server:
+### Overview
+The task was to build the homepage of a news outlet using the design files provided. The webpage basically consists of 4 sections: header, hero, newspanel and a news card list. The data (text and images) were all provided by the designers. The original challenge and files related can be found [here](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub). Below is the developed preview for the website:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![Screenshot 2023-02-21 185115](https://user-images.githubusercontent.com/55490663/220492438-31962fb6-56d2-4989-b25b-af046d015489.png 'Challenge Preview)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Tools
+I used the following in developing this project:
+- Next.js
+- Tailwindcss
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Deployment
+This project was deployed on [Vercel](https://vercel.com). Vercel is a deployment platform from the creators of Next.js.
