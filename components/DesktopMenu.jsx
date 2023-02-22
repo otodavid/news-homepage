@@ -10,7 +10,7 @@ const NAV_ITEMS = [
 
 const DesktopMenu = () => {
   return (
-    <nav role='navigation' aria-label='main-menu' className='flex'>
+    <nav aria-label='main-menu' className='flex'>
       <ul id='main-menu' className='flex gap-8'>
         {NAV_ITEMS.map(([title, url]) => (
           <li className='' key={title}>

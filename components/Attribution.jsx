@@ -2,7 +2,7 @@ import React from 'react';
 
 const Attribution = () => {
   return (
-    <div class='bg-grayish-blue-300 text-grayish-blue-100 text-center px-4 py-4'>
+    <div className='bg-grayish-blue-300 text-grayish-blue-100 text-center px-4 py-4'>
       Challenge by{' '}
       <a
         href='https://www.frontendmentor.io?ref=challenge'

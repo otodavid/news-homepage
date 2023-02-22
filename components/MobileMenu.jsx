@@ -57,7 +57,7 @@ const MobileMenu = ({ isMenuOpen, toggleMenu, triggerRef }) => {
           <Image src={closeIcon} alt='Close menu button' />
         </button>
 
-        <nav role='navigation' aria-label='main-menu'>
+        <nav aria-label='main-menu'>
           <ul id='main-menu' className='px-3 pt-[4.5rem]'>
             {NAV_ITEMS.map(([title, url], index) => (
               <li className='py-1.5' key={title}>

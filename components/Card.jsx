@@ -11,7 +11,7 @@ const Card = ({ id, image, title, content }) => {
           src={image}
           alt={title}
           fill
-          sizes='99vw'
+          sizes='50vw'
           style={{
             objectFit: 'cover',
           }}

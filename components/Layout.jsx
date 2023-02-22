@@ -25,7 +25,7 @@ const Layout = ({ children, className }) => {
       <div className='px-4 py-1 max-w-screen-3xl mx-auto md:px-8 md:py-4 lg:px-12 lg:py-10 xl:px-20 2xl:px-[10.5rem] 2xl:py-16'>
         <Header />
 
-        <main>{children}</main>
+        <div>{children}</div>
       </div>
       <Attribution />
     </div>
